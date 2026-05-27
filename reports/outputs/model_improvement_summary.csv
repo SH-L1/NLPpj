@@ -1,0 +1,4 @@
+model,macro_f1,delta_vs_best_baseline,delta_vs_lstm,is_transformer
+tfidf_random_forest,0.793441,0.0,0.073322,False
+lstm,0.720119,-0.073322,0.0,False
+kobert_compatible_klue_roberta_small,0.884674,0.09123300000000001,0.164555,True

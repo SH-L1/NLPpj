@@ -1,0 +1,10 @@
+model,label_id,label,support,correct,wrong,recall
+tfidf_random_forest,0,인권/성평등,1945,1490,455,0.766067
+tfidf_random_forest,1,문화/예술/체육/언론,1978,1617,361,0.817492
+tfidf_random_forest,2,육아/교육,1968,1567,401,0.79624
+lstm,0,인권/성평등,1945,1177,768,0.605141
+lstm,1,문화/예술/체육/언론,1978,1577,401,0.79727
+lstm,2,육아/교육,1968,1502,466,0.763211
+kobert_compatible_klue_roberta_small,0,인권/성평등,1945,1698,247,0.873008
+kobert_compatible_klue_roberta_small,1,문화/예술/체육/언론,1978,1832,146,0.926188
+kobert_compatible_klue_roberta_small,2,육아/교육,1968,1682,286,0.854675

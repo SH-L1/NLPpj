@@ -205,11 +205,11 @@ KoBERT 성능 개선을 입증하기 위한 비교 기준을 만든다.
 
 **작업**
 
-- [ ] 모델별 Accuracy, Precision, Recall, F1-Score를 한 표로 정리한다.
-- [ ] Confusion Matrix를 생성해 카테고리별 오분류 패턴을 분석한다.
-- [ ] 전처리 적용 전후 또는 파라미터 변경 전후 성능 차이를 비교한다.
-- [ ] KoBERT가 개선된 경우 어텐션 기반 문맥 이해 관점에서 이유를 설명한다.
-- [ ] KoBERT가 목표 성능에 못 미친 경우 데이터 불균형, max length truncation, 라벨 노이즈 등 원인을 분석한다.
+- [x] 모델별 Accuracy, Precision, Recall, F1-Score를 한 표로 정리한다.
+- [x] Confusion Matrix를 생성해 카테고리별 오분류 패턴을 분석한다.
+- [x] 전처리 적용 전후 또는 파라미터 변경 전후 성능 차이를 비교한다.
+- [x] KoBERT가 개선된 경우 어텐션 기반 문맥 이해 관점에서 이유를 설명한다.
+- [x] KoBERT가 목표 성능에 못 미친 경우 데이터 불균형, max length truncation, 라벨 노이즈 등 원인을 분석한다.
 
 **산출물**
 
