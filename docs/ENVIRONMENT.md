@@ -29,9 +29,20 @@
 - Miniconda 경로: `C:\Users\user\miniconda3`
 - Environment name: `nlp-petition`
 - Python: 3.10.20
-- 설치 패키지: `pandas`, `numpy`, `scikit-learn`, `torch`
+- 설치 패키지: `pandas`, `numpy`, `scikit-learn`, `torch`, `transformers`, `sentencepiece`, `safetensors`, `huggingface-hub`, `tokenizers`
 - 4단계 LSTM 실행 장치: CPU
 - 비고: 현재 설치한 `torch`는 CPU 실행으로 확인됐다. KoBERT 단계에서 GPU 학습이 필요하면 PyTorch 공식 CUDA 설치 명령으로 GPU 지원 버전을 다시 설치한다.
+
+## 2026-05-27 Transformer 파인튜닝 환경
+
+- 1차 후보 모델: `monologg/distilkobert`
+- 실제 사용 모델: `klue/roberta-small`
+- 대체 사유: `monologg/distilkobert` tokenizer가 현재 `transformers 5.9.0` 환경에서 로딩 실패
+- 1차 실행 장치: CPU, stratified subset 사용
+- 재학습 실행 환경: `nlppj`
+- 재학습 PyTorch: `2.5.1+cu121`
+- 재학습 실행 장치: CUDA, NVIDIA GeForce RTX 3080
+- 재학습 범위: baseline과 동일한 전체 train/validation/test split, `max_length=160`, `epochs=3`, `batch_size=32`
 
 현재 번들 Python은 EDA 실행에는 충분하지만, 모델 학습용 최종 환경은 아래 권장 환경대로 별도 Anaconda 환경을 만드는 것을 기준으로 한다.
 

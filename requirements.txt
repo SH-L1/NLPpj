@@ -6,3 +6,6 @@ seaborn
 torch
 transformers
 sentencepiece
+safetensors
+huggingface-hub
+tokenizers

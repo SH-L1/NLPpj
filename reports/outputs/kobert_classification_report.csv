@@ -1,0 +1,4 @@
+model,label_id,label,precision,recall,f1,support
+kobert_compatible_klue_roberta_small,0,인권/성평등,0.836041,0.873008,0.854125,1945
+kobert_compatible_klue_roberta_small,1,문화/예술/체육/언론,0.902908,0.926188,0.9144,1978
+kobert_compatible_klue_roberta_small,2,육아/교육,0.918624,0.854675,0.885496,1968

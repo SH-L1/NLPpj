@@ -175,12 +175,12 @@ KoBERT 성능 개선을 입증하기 위한 비교 기준을 만든다.
 
 **작업**
 
-- [ ] KoBERT 또는 호환 가능한 Hugging Face 기반 한국어 BERT 모델을 설치한다.
-- [ ] tokenizer, max length, batch size, learning rate, epoch 수를 정하고 근거를 기록한다.
-- [ ] 베이스라인과 동일한 train/validation/test split을 사용한다.
-- [ ] seed를 고정해 실험 재현성을 확보한다.
-- [ ] validation F1-Score를 기준으로 최적 모델을 선택한다.
-- [ ] GPU 메모리 부족 시 batch size 축소 또는 gradient accumulation 적용 여부를 기록한다.
+- [x] KoBERT 또는 호환 가능한 Hugging Face 기반 한국어 BERT 모델을 설치한다.
+- [x] tokenizer, max length, batch size, learning rate, epoch 수를 정하고 근거를 기록한다.
+- [x] 베이스라인과 동일한 train/validation/test split을 사용한다.
+- [x] seed를 고정해 실험 재현성을 확보한다.
+- [x] validation F1-Score를 기준으로 최적 모델을 선택한다.
+- [x] GPU 메모리 부족 시 batch size 축소 또는 gradient accumulation 적용 여부를 기록한다.
 
 **산출물**
 
