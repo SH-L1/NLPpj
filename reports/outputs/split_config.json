@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "train_ratio": 0.7,
+  "valid_ratio": 0.15,
+  "test_ratio": 0.15,
+  "stratify_column": "category"
+}

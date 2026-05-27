@@ -26,10 +26,12 @@ reports/outputs/*
 !data/processed/.gitkeep
 !models/.gitkeep
 !logs/.gitkeep
+!logs/*.csv
 !reports/figures/.gitkeep
 !reports/outputs/.gitkeep
 !reports/figures/*.svg
 !reports/outputs/*.csv
+!reports/outputs/*.json
 
 # Local school submission files may contain personal data or credentials.
 submissions/*.hwp

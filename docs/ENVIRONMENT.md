@@ -24,6 +24,15 @@
 - NVIDIA Driver: 596.49
 - PyTorch CUDA 사용 가능 여부: `torch` 미설치 상태라 아직 검증 불가
 
+## 2026-05-27 베이스라인 학습 환경
+
+- Miniconda 경로: `C:\Users\user\miniconda3`
+- Environment name: `nlp-petition`
+- Python: 3.10.20
+- 설치 패키지: `pandas`, `numpy`, `scikit-learn`, `torch`
+- 4단계 LSTM 실행 장치: CPU
+- 비고: 현재 설치한 `torch`는 CPU 실행으로 확인됐다. KoBERT 단계에서 GPU 학습이 필요하면 PyTorch 공식 CUDA 설치 명령으로 GPU 지원 버전을 다시 설치한다.
+
 현재 번들 Python은 EDA 실행에는 충분하지만, 모델 학습용 최종 환경은 아래 권장 환경대로 별도 Anaconda 환경을 만드는 것을 기준으로 한다.
 
 ## 기본 설치 명령

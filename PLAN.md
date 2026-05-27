@@ -147,11 +147,11 @@ KoBERT 성능 개선을 입증하기 위한 비교 기준을 만든다.
 
 **작업**
 
-- [ ] 학습/검증/테스트 데이터를 동일 seed로 분할한다.
-- [ ] TF-IDF 기반 Random Forest 또는 XGBoost 모델을 학습한다.
-- [ ] 교재 수준의 RNN/LSTM 모델을 구현하고 학습한다.
-- [ ] 각 모델의 Accuracy, Precision, Recall, F1-Score를 저장한다.
-- [ ] 장문 텍스트에서 RNN/LSTM이 보이는 한계를 사례와 수치로 정리한다.
+- [x] 학습/검증/테스트 데이터를 동일 seed로 분할한다.
+- [x] TF-IDF 기반 Random Forest 또는 XGBoost 모델을 학습한다.
+- [x] 교재 수준의 RNN/LSTM 모델을 구현하고 학습한다.
+- [x] 각 모델의 Accuracy, Precision, Recall, F1-Score를 저장한다.
+- [x] 장문 텍스트에서 RNN/LSTM이 보이는 한계를 사례와 수치로 정리한다.
 
 **산출물**
 
