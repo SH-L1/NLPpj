@@ -1,0 +1,45 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and generated artifacts
+data/raw/*
+data/processed/*
+models/*
+logs/*
+reports/figures/*
+reports/outputs/*
+
+# Keep planned directories in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+!logs/.gitkeep
+!reports/figures/.gitkeep
+!reports/outputs/.gitkeep
+!reports/figures/*.svg
+!reports/outputs/*.csv
+
+# Local school submission files may contain personal data or credentials.
+submissions/*.hwp
+submissions/*.hwpx
+submissions/*.docx
+submissions/*.pdf
+!submissions/.gitkeep
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
