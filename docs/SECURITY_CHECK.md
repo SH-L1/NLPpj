@@ -7,9 +7,17 @@
 - `submissions/*.hwp`, `submissions/*.hwpx`, `submissions/*.docx`, `submissions/*.pdf`는 `.gitignore`로 커밋 제외 처리했다.
 - `data/raw/`, `data/processed/`, `models/`, `logs/`의 생성물도 기본적으로 커밋 제외 처리했다.
 
+## 2026-05-27 점검 결과
+
+- `data/raw/train.csv`, `data/raw/test.csv`는 Git ignored 상태로 확인했다.
+- `submissions/*.hwp`는 Git ignored 상태로 확인했다.
+- 공개 후보 파일에서 `github_pat`, `ghp_`, 전화번호 패턴, 학교 이메일 패턴을 검색했으며 실제 민감 정보는 발견되지 않았다.
+- 저장소 차원의 차단은 완료했다.
+- HWP 문서에 노출됐던 GitHub Personal Access Token은 2026-05-27 사용자 확인 기준으로 폐기 완료했다.
+
 ## 즉시 해야 할 일
 
-- [ ] 노출된 GitHub Personal Access Token을 GitHub에서 폐기한다.
+- [x] 노출된 GitHub Personal Access Token을 GitHub에서 폐기한다. 2026-05-27 사용자 확인 기준 완료.
 - [ ] 새 토큰이 필요하면 최소 권한과 짧은 만료 기간으로 재발급한다.
 - [ ] 제출용 문서에서 토큰, 전화번호, 생년월일, 이메일 등 공개 불필요 정보를 제거한 별도 공개본을 만든다.
 - [ ] 공개 저장소에 올릴 문서에는 실제 토큰 문자열을 절대 기록하지 않는다.

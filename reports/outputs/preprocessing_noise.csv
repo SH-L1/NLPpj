@@ -1,0 +1,2 @@
+before_rows,missing_rows_removed,duplicate_rows_removed,total_rows_removed,after_rows
+40000,11,717,728,39272

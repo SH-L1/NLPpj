@@ -1,0 +1,4 @@
+dataset,column,rows,mean_length,median_length,max_length,empty_rows
+train_raw,data,40000,546.05,313.0,32767,8
+train_clean,clean_text,39272,524.48,303.0,30695,0
+test_clean,clean_text,5000,525.46,286.0,23773,0

@@ -13,6 +13,19 @@
 - Main framework: PyTorch
 - Transformer library: Hugging Face `transformers`
 
+## 현재 확인된 로컬 상태
+
+- 확인 날짜: 2026-05-27
+- Codex 번들 Python: 3.12.13
+- 설치 확인됨: `pandas 3.0.1`, `numpy 2.3.5`
+- 아직 설치 필요: `scikit-learn`, `torch`, `transformers`, `sentencepiece`
+- `conda`: 현재 PowerShell PATH에서는 감지되지 않음
+- GPU: NVIDIA GeForce RTX 3080, 12GB VRAM
+- NVIDIA Driver: 596.49
+- PyTorch CUDA 사용 가능 여부: `torch` 미설치 상태라 아직 검증 불가
+
+현재 번들 Python은 EDA 실행에는 충분하지만, 모델 학습용 최종 환경은 아래 권장 환경대로 별도 Anaconda 환경을 만드는 것을 기준으로 한다.
+
 ## 기본 설치 명령
 
 ```bash
@@ -21,6 +34,8 @@ conda activate nlp-petition
 pip install pandas numpy scikit-learn matplotlib seaborn
 pip install torch transformers sentencepiece
 ```
+
+PowerShell에서 `conda` 명령이 감지되지 않는 경우 Anaconda Prompt를 열어 위 명령을 실행한다.
 
 ## KoBERT 설치 방침
 

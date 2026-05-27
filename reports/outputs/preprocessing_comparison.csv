@@ -1,0 +1,3 @@
+stage,rows,mean_length,median_length,vocabulary_size
+raw_tokenized,40000,546.0478,313.0,735792
+cleaned_stopwords_removed,39272,524.479654715828,303.0,735749
