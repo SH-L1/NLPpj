@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="430" viewBox="0 0 850 430">
+<rect width="100%" height="100%" fill="white" />
+<text x="425.0" y="28" text-anchor="middle" font-size="22" font-weight="700">Macro F1 by Model</text>
+<text x="248" y="114.6" text-anchor="end" font-size="13">lstm</text><rect x="260" y="55.0" width="388.9" height="90.3" fill="#2563eb" /><text x="656.9" y="114.6" font-size="13">0.7201</text><text x="248" y="222.9" text-anchor="end" font-size="13">tfidf_random_forest</text><rect x="260" y="163.3" width="428.5" height="90.3" fill="#2563eb" /><text x="696.5" y="222.9" font-size="13">0.7934</text><text x="248" y="331.2" text-anchor="end" font-size="13">kobert_compatible_klue_roberta_small</text><rect x="260" y="271.7" width="477.7" height="90.3" fill="#2563eb" /><text x="745.7" y="331.2" font-size="13">0.8847</text>
+<text x="425.0" y="412" text-anchor="middle" font-size="13">Higher is better</text>
+</svg>
