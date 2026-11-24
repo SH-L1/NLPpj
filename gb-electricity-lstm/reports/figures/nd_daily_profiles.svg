@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="780" height="385" preserveAspectRatio="xMinYMin meet" viewBox="0 0 780 385" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="780" height="385"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-385)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="780" height="385" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="28" y="350" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(14%,34%,51%); stroke:none;" transform="translate(0,700) scale(1,-1)">Daily demand profile by day type</text>
+			<text x="28" y="329" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,658) scale(1,-1)">NESO Great Britain | Mean National Demand, 2022–2023 | 48 local clock slots</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="65.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,130) scale(1,-1)">15,000</text>
+			<path d="M 78,113 L 748,113 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="110.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,220) scale(1,-1)">20,000</text>
+			<path d="M 78,158 L 748,158 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="155.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,310) scale(1,-1)">25,000</text>
+			<path d="M 78,203 L 748,203 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="200.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,400) scale(1,-1)">30,000</text>
+			<path d="M 78,248 L 748,248 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="245.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,490) scale(1,-1)">35,000</text>
+			<path d="M 78,293 L 748,293 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="290.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,580) scale(1,-1)">40,000</text>
+			<text x="67.749" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">00:00</text>
+			<text x="153.28091489361702" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">03:00</text>
+			<text x="238.81282978723405" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">06:00</text>
+			<text x="324.3447446808511" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">09:00</text>
+			<text x="409.87665957446814" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">12:00</text>
+			<text x="495.40857446808513" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">15:00</text>
+			<text x="580.9404893617021" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">18:00</text>
+			<text x="666.4724042553191" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">21:00</text>
+			<text x="737.749" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">23:30</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(31%,39%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="78" y="312" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,624) scale(1,-1)">Mean ND (MW)</text>
+			<text x="343.43" y="29" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,58) scale(1,-1)">Local clock time (Europe/London)</text>
+			<polyline points="78 130.5192, 92.25532 129.454, 106.5106 126.5225, 120.766 124.1676, 135.0213 120.9334, 149.2766 118.0439, 163.5319 115.6153, 177.7872 113.8612, 192.0426 112.7764, 206.2979 113.1011, 220.5532 117.8774, 234.8085 125.972, 249.0638 145.8233, 263.3191 163.1801, 277.5745 184.3014, 291.8298 194.7604, 306.0851 204.6864, 320.3404 206.1857, 334.5957 208.9412, 348.8511 206.8397, 363.1064 203.3811, 377.3617 200.7447, 391.617 198.7476, 405.8723 197.1092, 420.1277 197.6704, 434.383 196.2808, 448.6383 194.3929, 462.8936 192.1026, 477.1489 191.4428, 491.4043 191.6546, 505.6596 193.5161, 519.9149 199.6175, 534.1702 208.0214, 548.4255 217.3461, 562.6809 226.3036, 576.9362 231.1526, 591.1915 232.7084, 605.4468 232.3516, 619.7021 229.8548, 633.9574 224.4766, 648.2128 217.6773, 662.4681 209.9328, 676.7234 200.3273, 690.9787 189.2034, 705.234 176.1215, 719.4894 163.1801, 733.7447 148.8726, 748 138.66" style="stroke: rgb(14%,34%,51%); stroke-linecap: butt; stroke-width: 2.5; fill: None; fill-rule: evenodd;"/>
+			<path d="M 493,313 L 514,313 Z" style="stroke: rgb(14%,34%,51%); stroke-linecap: butt; stroke-width: 2.5;"/>
+			<text x="520" y="310" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,620) scale(1,-1)">Weekdays</text>
+			<polyline points="78 127.6663, 92.25532 126.2483, 106.5106 122.1674, 120.766 118.8304, 135.0213 115.0473, 149.2766 111.504, 163.5319 108.0055, 177.7872 105.357, 192.0426 103.2398, 206.2979 101.4786, 220.5532 102.2186, 234.8085 104.0111, 249.0638 111.2891, 263.3191 116.6971, 277.5745 125.952, 291.8298 132.1781, 306.0851 142.6252, 320.3404 148.4356, 334.5957 154.8387, 348.8511 156.7164, 363.1064 157.8787, 377.3617 157.111, 391.617 156.6744, 405.8723 156.6224, 420.1277 157.78, 434.383 157.2233, 448.6383 155.7604, 462.8936 154.0786, 477.1489 153.6415, 491.4043 154.5229, 505.6596 157.8963, 519.9149 163.2253, 534.1702 172.7453, 548.4255 183.9218, 562.6809 194.671, 576.9362 200.7689, 591.1915 202.6203, 605.4468 202.5082, 619.7021 199.5246, 633.9574 195.1399, 648.2128 190.1012, 662.4681 184.01, 676.7234 176.6213, 690.9787 168.4943, 705.234 158.6115, 719.4894 148.4279, 733.7447 136.4906, 748 127.5985" style="stroke: rgb(8%,52%,45%); stroke-linecap: butt; stroke-width: 2.5; fill: None; fill-rule: evenodd;"/>
+			<path d="M 620,313 L 641,313 Z" style="stroke: rgb(8%,52%,45%); stroke-linecap: butt; stroke-width: 2.5;"/>
+			<text x="647" y="310" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,620) scale(1,-1)">Weekends</text>
+		</g>
+	</g>
+</svg>

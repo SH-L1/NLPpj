@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="780" height="385" preserveAspectRatio="xMinYMin meet" viewBox="0 0 780 385" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="780" height="385"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-385)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="780" height="385" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="28" y="350" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(14%,34%,51%); stroke:none;" transform="translate(0,700) scale(1,-1)">Monthly mean electricity demand</text>
+			<text x="28" y="329" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,658) scale(1,-1)">NESO Great Britain | Local settlement month, January 2022 through December 2023</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="65.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,130) scale(1,-1)">18,000</text>
+			<path d="M 78,124.25 L 748,124.25 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="121.25" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,242) scale(1,-1)">23,000</text>
+			<path d="M 78,180.5 L 748,180.5 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="177.5" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,355) scale(1,-1)">28,000</text>
+			<path d="M 78,236.75 L 748,236.75 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="233.75" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,467) scale(1,-1)">33,000</text>
+			<path d="M 78,293 L 748,293 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="44.25" y="290.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,580) scale(1,-1)">38,000</text>
+			<text x="63.0015" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2022-01</text>
+			<text x="150.3928043478261" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2022-04</text>
+			<text x="237.78410869565218" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2022-07</text>
+			<text x="325.1754130434783" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2022-10</text>
+			<text x="412.5667173913044" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2023-01</text>
+			<text x="499.9580217391305" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2023-04</text>
+			<text x="587.3493260869565" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2023-07</text>
+			<text x="674.7406304347826" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2023-10</text>
+			<text x="733.0015" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">2023-12</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(31%,39%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="78" y="312" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,624) scale(1,-1)">Mean ND (MW)</text>
+			<text x="377.58" y="29" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,58) scale(1,-1)">Settlement month</text>
+			<polyline points="78 234.0793, 107.1304 207.7503, 136.2609 194.7127, 165.3913 157.6845, 194.5217 133.7644, 223.6522 122.6047, 252.7826 127.4282, 281.913 127.9951, 311.0435 136.6576, 340.1739 143.378, 369.3043 180.3483, 398.4348 215.7891, 427.5652 210.9539, 456.6957 198.2057, 485.8261 192.4174, 514.9565 152.615, 544.087 123.623, 573.2174 117.6759, 602.3478 111.1637, 631.4783 116.0318, 660.6087 133.3036, 689.7391 152.6074, 718.8696 199.4592, 748 197.8082" style="stroke: rgb(8%,52%,45%); stroke-linecap: butt; stroke-width: 2.5; fill: None; fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

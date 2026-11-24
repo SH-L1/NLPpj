@@ -1,0 +1,169 @@
+{
+  "scope": "2022–2023 training period only",
+  "nd": {
+    "n": 35040,
+    "mean_mw": 26337.01709474886,
+    "std_mw": 6070.089613201018,
+    "min_mw": 13601.0,
+    "p25_mw": 21618.0,
+    "median_mw": 25594.0,
+    "p75_mw": 30071.0,
+    "max_mw": 46147.0
+  },
+  "groups": [
+    {
+      "group": "weekday",
+      "n": 24960,
+      "mean_mw": 27274.10356570513,
+      "std_mw": 6077.172444942569,
+      "min_mw": 15443.0,
+      "p25_mw": 22731.0,
+      "median_mw": 26544.5,
+      "p75_mw": 31125.25,
+      "max_mw": 46147.0,
+      "share_percent": 71.23287671232876
+    },
+    {
+      "group": "weekend",
+      "n": 10080,
+      "mean_mw": 24016.6125,
+      "std_mw": 5392.322302635484,
+      "min_mw": 13601.0,
+      "p25_mw": 19886.0,
+      "median_mw": 23098.5,
+      "p75_mw": 27119.25,
+      "max_mw": 42591.0,
+      "share_percent": 28.767123287671232
+    }
+  ],
+  "profiles_min_max": [
+    {
+      "group": "weekday",
+      "type": "minimum",
+      "local_time": "04:00",
+      "mean_mw": 19975.153846153848
+    },
+    {
+      "group": "weekday",
+      "type": "maximum",
+      "local_time": "18:00",
+      "mean_mw": 33300.928846153845
+    },
+    {
+      "group": "weekend",
+      "type": "minimum",
+      "local_time": "04:30",
+      "mean_mw": 18719.842857142856
+    },
+    {
+      "group": "weekend",
+      "type": "maximum",
+      "local_time": "18:00",
+      "mean_mw": 29957.814285714285
+    }
+  ],
+  "iqr_screen": {
+    "lower_mw": 8938.5,
+    "upper_mw": 42750.5,
+    "below_count": 0,
+    "above_count": 177,
+    "high_run_count": 42,
+    "isolated_high_count": 3,
+    "longest_high_run": 10,
+    "observed_extremes": [
+      {
+        "timestamp_local": "2023-07-16T05:30:00+01:00",
+        "nd_mw": 13601.0,
+        "previous_mw": 13655.0,
+        "next_mw": 13988.0
+      },
+      {
+        "timestamp_local": "2022-12-15T17:00:00+00:00",
+        "nd_mw": 46147.0,
+        "previous_mw": 45700.0,
+        "next_mw": 45964.0
+      }
+    ]
+  },
+  "monthly_min": {
+    "month": "2023-07",
+    "mean_mw": 21836.773521505376
+  },
+  "monthly_max": {
+    "month": "2022-01",
+    "mean_mw": 32762.600134408603
+  },
+  "lags": [
+    {
+      "steps": 1,
+      "label": "30 min",
+      "n": 34704,
+      "pearson_r": 0.9891687652071278,
+      "mean_absolute_difference_mw": 666.5190179806362
+    },
+    {
+      "steps": 2,
+      "label": "1 hour",
+      "n": 34704,
+      "pearson_r": 0.9596288303684039,
+      "mean_absolute_difference_mw": 1291.3397879207007
+    },
+    {
+      "steps": 12,
+      "label": "6 hours",
+      "n": 34704,
+      "pearson_r": 0.3555847759620019,
+      "mean_absolute_difference_mw": 5629.83872176118
+    },
+    {
+      "steps": 24,
+      "label": "12 hours",
+      "n": 34704,
+      "pearson_r": 0.16011198533562226,
+      "mean_absolute_difference_mw": 6499.654477869986
+    },
+    {
+      "steps": 48,
+      "label": "24 hours",
+      "n": 34704,
+      "pearson_r": 0.9084025225191423,
+      "mean_absolute_difference_mw": 1832.722366297833
+    },
+    {
+      "steps": 96,
+      "label": "48 hours",
+      "n": 34704,
+      "pearson_r": 0.828840425785232,
+      "mean_absolute_difference_mw": 2643.6321749654217
+    },
+    {
+      "steps": 336,
+      "label": "7 days",
+      "n": 34704,
+      "pearson_r": 0.8993791037122949,
+      "mean_absolute_difference_mw": 2018.0858402489628
+    }
+  ],
+  "ramp_diagnostic": {
+    "n": 35039,
+    "median_abs_change_mw": 479.0,
+    "p99_abs_change_mw": 2661.0,
+    "above_or_equal_count": 352,
+    "mean_abs_change_mw": 668.0431233768087,
+    "tail_mean_abs_change_mw": 2934.369318181818,
+    "largest_rises_and_falls": [
+      {
+        "timestamp_local": "2023-01-26T07:00:00+00:00",
+        "previous_mw": 31529.0,
+        "nd_mw": 35260.0,
+        "change_mw": 3731.0
+      },
+      {
+        "timestamp_local": "2022-12-14T22:00:00+00:00",
+        "previous_mw": 36284.0,
+        "nd_mw": 33701.0,
+        "change_mw": -2583.0
+      }
+    ]
+  }
+}

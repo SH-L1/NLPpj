@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="780" height="385" preserveAspectRatio="xMinYMin meet" viewBox="0 0 780 385" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="780" height="385"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-385)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="780" height="385" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="28" y="350" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(14%,34%,51%); stroke:none;" transform="translate(0,700) scale(1,-1)">Relationship between current and past demand</text>
+			<text x="28" y="329" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,658) scale(1,-1)">NESO Great Britain | Pearson r | Same 34,704 target timestamps at all lags</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="61.503" y="65.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,130) scale(1,-1)">-1</text>
+			<path d="M 78,124.25 L 748,124.25 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="54.753" y="121.25" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,242) scale(1,-1)">-0.5</text>
+			<path d="M 78,180.5 L 748,180.5 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="64.5" y="177.5" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,355) scale(1,-1)">0</text>
+			<path d="M 78,236.75 L 748,236.75 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="57.75" y="233.75" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,467) scale(1,-1)">0.5</text>
+			<path d="M 78,293 L 748,293 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="64.5" y="290.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,580) scale(1,-1)">1</text>
+			<text x="117.27440845070426" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">30 min</text>
+			<text x="212.6441056338028" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">1 hour</text>
+			<text x="305.25980281690136" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">6 hours</text>
+			<text x="397.376" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">12 hours</text>
+			<text x="491.7421971830986" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">24 hours</text>
+			<text x="586.1083943661972" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">48 hours</text>
+			<text x="684.4750915492958" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">7 days</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(31%,39%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="78" y="312" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,624) scale(1,-1)">Pearson r</text>
+			<text x="338.435" y="29" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,58) scale(1,-1)">Elapsed time before the target (UTC)</text>
+			<rect x="111.90140845070425" y="180.5" width="36.0" height="111.28148608580187" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<text x="119.77640845070425" y="297.7814860858019" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,595) scale(1,-1)">0.989</text>
+			<rect x="206.26760563380282" y="180.5" width="36.0" height="107.95824341644538" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<text x="214.14260563380282" y="294.4582434164454" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,588) scale(1,-1)">0.960</text>
+			<rect x="300.6338028169014" y="180.5" width="36.0" height="40.003287295725215" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<text x="308.5088028169014" y="226.50328729572522" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,453) scale(1,-1)">0.356</text>
+			<rect x="395.0" y="180.5" width="36.0" height="18.01259835025752" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<text x="402.875" y="204.51259835025752" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,409) scale(1,-1)">0.160</text>
+			<rect x="489.3661971830986" y="180.5" width="36.0" height="102.19528378340351" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<text x="497.2411971830986" y="288.6952837834035" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,577) scale(1,-1)">0.908</text>
+			<rect x="583.7323943661972" y="180.5" width="36.0" height="93.2445479008386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<text x="591.6073943661972" y="279.7445479008386" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,559) scale(1,-1)">0.829</text>
+			<rect x="678.0985915492959" y="180.5" width="36.0" height="101.1801491676332" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<text x="685.9735915492959" y="287.6801491676332" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,575) scale(1,-1)">0.899</text>
+		</g>
+	</g>
+</svg>

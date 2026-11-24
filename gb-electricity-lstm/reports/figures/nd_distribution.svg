@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="780" height="385" preserveAspectRatio="xMinYMin meet" viewBox="0 0 780 385" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="780" height="385"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-385)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="780" height="385" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="28" y="350" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(14%,34%,51%); stroke:none;" transform="translate(0,700) scale(1,-1)">Distribution of 30-minute electricity demand</text>
+			<text x="28" y="329" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,658) scale(1,-1)">NESO Great Britain | 2022–2023 | 35,040 observations | 1,000 MW bins</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="64.5" y="65.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,130) scale(1,-1)">0</text>
+			<path d="M 78,113 L 748,113 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="55.5" y="110.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,220) scale(1,-1)">500</text>
+			<path d="M 78,158 L 748,158 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="48.75" y="155.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,310) scale(1,-1)">1,000</text>
+			<path d="M 78,203 L 748,203 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="48.75" y="200.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,400) scale(1,-1)">1,500</text>
+			<path d="M 78,248 L 748,248 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="48.75" y="245.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,490) scale(1,-1)">2,000</text>
+			<path d="M 78,293 L 748,293 Z" style="stroke: rgb(87%,90%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="48.75" y="290.0" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,580) scale(1,-1)">2,500</text>
+			<text x="105.03676470588235" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">15,000</text>
+			<text x="203.56617647058823" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">20,000</text>
+			<text x="302.09558823529414" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">25,000</text>
+			<text x="400.625" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">30,000</text>
+			<text x="499.15441176470586" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">35,000</text>
+			<text x="597.6838235294117" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">40,000</text>
+			<text x="696.2132352941177" y="52" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,104) scale(1,-1)">45,000</text>
+			<path d="M 78,68 L 748,68 Z" style="stroke: rgb(31%,39%,47%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="78" y="312" style="font-family: Times-Roman; font-size: 9px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,624) scale(1,-1)">Observations</text>
+			<text x="363.845" y="29" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,47%); stroke:none;" transform="translate(0,58) scale(1,-1)">National Demand (MW)</text>
+			<rect x="79.0" y="68.0" width="17.705882352941174" height="0.6299999999999955" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="98.70588235294117" y="68.0" width="17.705882352941174" height="2.430000000000007" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="118.41176470588235" y="68.0" width="17.705882352941188" height="14.219999999999999" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="138.11764705882354" y="68.0" width="17.70588235294116" height="47.52000000000001" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="157.8235294117647" y="68.0" width="17.705882352941188" height="101.61000000000001" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="177.52941176470588" y="68.0" width="17.705882352941188" height="157.14" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="197.23529411764707" y="68.0" width="17.70588235294116" height="181.17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="216.94117647058823" y="68.0" width="17.705882352941188" height="176.49" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="236.64705882352942" y="68.0" width="17.70588235294116" height="176.4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="256.3529411764706" y="68.0" width="17.705882352941217" height="180.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="276.05882352941177" y="68.0" width="17.70588235294116" height="201.33000000000004" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="295.7647058823529" y="68.0" width="17.705882352941217" height="210.60000000000002" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="315.47058823529414" y="68.0" width="17.70588235294116" height="214.11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="335.1764705882353" y="68.0" width="17.70588235294116" height="209.43" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="354.88235294117646" y="68.0" width="17.70588235294116" height="189.26999999999998" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="374.5882352941176" y="68.0" width="17.705882352941217" height="160.11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="394.29411764705884" y="68.0" width="17.70588235294116" height="133.47" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="414.0" y="68.0" width="17.70588235294116" height="117.81" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="433.70588235294116" y="68.0" width="17.705882352941217" height="99.09" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="453.4117647058824" y="68.0" width="17.70588235294116" height="94.13999999999999" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="473.11764705882354" y="68.0" width="17.70588235294116" height="81.09" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="492.8235294117647" y="68.0" width="17.70588235294116" height="68.67000000000002" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="512.5294117647059" y="68.0" width="17.705882352941217" height="66.24000000000001" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="532.2352941176471" y="68.0" width="17.705882352941217" height="61.28999999999999" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="551.9411764705883" y="68.0" width="17.705882352941103" height="54.900000000000006" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="571.6470588235294" y="68.0" width="17.705882352941217" height="43.650000000000006" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="591.3529411764706" y="68.0" width="17.705882352941103" height="37.349999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="611.0588235294117" y="68.0" width="17.705882352941217" height="28.260000000000005" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="630.7647058823529" y="68.0" width="17.705882352941217" height="18.450000000000003" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="650.4705882352941" y="68.0" width="17.705882352941103" height="13.230000000000004" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="670.1764705882352" y="68.0" width="17.705882352941217" height="9.269999999999996" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="689.8823529411765" y="68.0" width="17.705882352941217" height="2.7900000000000063" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="709.5882352941177" y="68.0" width="17.705882352941103" height="0.9000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+			<rect x="729.2941176470588" y="68.0" width="17.705882352941217" height="0.09000000000000341" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,52%,45%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>
