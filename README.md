@@ -3,6 +3,7 @@
 프로젝트별 작업은 각각의 하위 폴더에서 진행합니다.
 
 - [petition-classification/](petition-classification/): 기존 국민청원 장문 텍스트 분류 프로젝트
+- [gb-electricity-lstm/](gb-electricity-lstm/): 영국 전력수요 예측 딥러닝 과제(NESO 2022~2025년 자료)
 - [REPOSITORY_STRUCTURE.md](REPOSITORY_STRUCTURE.md): 공통 구조와 관리 원칙
 - [SECURITY_CHECK.md](SECURITY_CHECK.md): 공통 보안 기준과 기존 점검 기록
 - `.claude/skills/`: 공통 작업 스킬

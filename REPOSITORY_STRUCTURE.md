@@ -7,6 +7,12 @@ NLPpj/
 ├── SECURITY_CHECK.md            # 공통 보안 기준 및 점검 기록
 ├── .gitignore                   # 모든 프로젝트에 적용하는 제외 규칙
 ├── .claude/skills/              # 공통 작업 스킬
+├── gb-electricity-lstm/         # 영국 전력수요 예측 딥러닝 과제
+│   ├── README.md
+│   ├── data/raw/               # 수집한 원본 CSV, Git 제외
+│   ├── data/metadata/          # 출처, 파일 해시, 수집 검증 기록
+│   ├── docs/                  # 프로젝트 전용 문서
+│   └── scripts/               # 데이터 수집 및 검증 코드
 └── petition-classification/     # 기존 국민청원 분류 프로젝트
     ├── README.md
     ├── PLAN.md
@@ -25,7 +31,7 @@ NLPpj/
     └── submissions/
 ```
 
-새 프로젝트는 `petition-classification/`과 같은 깊이에 별도 폴더를 만들어 관리합니다. 새 프로젝트의 이름과 내용은 아직 정하지 않았으므로 폴더를 미리 만들지 않았습니다.
+두 프로젝트는 같은 깊이의 독립된 폴더에서 관리합니다. 새 딥러닝 과제는 `gb-electricity-lstm/`에서 진행하며 `deeplearning` 브랜치에 커밋합니다.
 
 ## 관리 원칙
 

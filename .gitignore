@@ -45,3 +45,6 @@ env/
 Thumbs.db
 .vscode/
 .idea/
+
+# Workspace temporary files (PDF extraction/rendering, etc.)
+/tmp/
