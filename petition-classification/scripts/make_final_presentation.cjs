@@ -2,7 +2,7 @@ const path = require("path");
 const fs = require("fs");
 const PptxGenJS = require("C:/Users/user/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/.pnpm/pptxgenjs@4.0.1/node_modules/pptxgenjs");
 
-const ROOT = "C:/Users/user/Documents/GitHub/NLPpj";
+const ROOT = path.resolve(__dirname, "..");
 const OUT = path.join(ROOT, "submissions", "국민청원_장문텍스트_분류_최종발표.pptx");
 
 const pptx = new PptxGenJS();

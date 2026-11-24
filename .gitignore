@@ -14,31 +14,31 @@ env/
 .ipynb_checkpoints/
 
 # Data and generated artifacts
-data/raw/*
-data/processed/*
-models/*
-logs/*
-reports/figures/*
-reports/outputs/*
+**/data/raw/*
+**/data/processed/*
+**/models/*
+**/logs/*
+**/reports/figures/*
+**/reports/outputs/*
 
 # Keep planned directories in Git
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!models/.gitkeep
-!logs/.gitkeep
-!logs/*.csv
-!reports/figures/.gitkeep
-!reports/outputs/.gitkeep
-!reports/figures/*.svg
-!reports/outputs/*.csv
-!reports/outputs/*.json
+!**/data/raw/.gitkeep
+!**/data/processed/.gitkeep
+!**/models/.gitkeep
+!**/logs/.gitkeep
+!**/logs/*.csv
+!**/reports/figures/.gitkeep
+!**/reports/outputs/.gitkeep
+!**/reports/figures/*.svg
+!**/reports/outputs/*.csv
+!**/reports/outputs/*.json
 
 # Local school submission files may contain personal data or credentials.
-submissions/*.hwp
-submissions/*.hwpx
-submissions/*.docx
-submissions/*.pdf
-!submissions/.gitkeep
+**/submissions/*.hwp
+**/submissions/*.hwpx
+**/submissions/*.docx
+**/submissions/*.pdf
+!**/submissions/.gitkeep
 
 # OS and editor noise
 .DS_Store
