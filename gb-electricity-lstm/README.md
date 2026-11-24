@@ -13,6 +13,8 @@ Great Britain(잉글랜드·스코틀랜드·웨일스)의 과거 전력수요�
 
 자세한 출처, 수집 결과, 날짜·컬럼 차이는 [데이터 수집 기록](docs/DATA_COLLECTION.md)을 참고하세요.
 
+현재 단계의 [중간 보고서 PDF](output/pdf/gb_electricity_collection_report.pdf)와 [편집용 본문](output/pdf/gb_electricity_collection_report.txt)을 제공합니다. 제공된 보고서 양식에 맞춰 8쪽으로 구성했으며, 미수행 항목은 계획으로 구분했습니다. `python scripts/make_collection_report.py`로 다시 생성할 수 있습니다(ReportLab 및 Windows 맑은 고딕 필요).
+
 ## 재현 방법
 
 Python 3.10 이상, 표준 라이브러리만 사용합니다. 이 단계에서는 별도 패키지가 필요하지 않습니다.
